@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(17, 143, 182);
+}
+.container{
+    font-size: larger;
+
+    
+    flex-direction: column;
+    padding: 210px;
+
+    text-align: center;
+    align-items: center;
+    
+    
+    }
+    .counter{
+        font-size: 60px;
+        color: rebeccapurple;
+    }
+    button{
+        font-size: 30px;
+        background-color: black;
+    }
+    #increase{
+        color: seagreen;
+    }
+    #decrease{
+        color: seagreen;
+    }
+    #reset{
+        color:tomato;
+    }
